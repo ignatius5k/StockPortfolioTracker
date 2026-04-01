@@ -1,0 +1,34 @@
+{
+    "cash": 93200.0,
+    "holdings": {
+        "AAPL": {
+            "symbol": "AAPL",
+            "quantity": 2,
+            "avg_price": 240.0
+        },
+        "TSLA": {
+            "symbol": "TSLA",
+            "quantity": 20,
+            "avg_price": 340.0
+        },
+        "BTC": {
+            "symbol": "BTC",
+            "quantity": 6,
+            "avg_price": 150000.0
+        }
+    },
+    "history": [
+        "Day 1: Bought 2 AAPL @ 240.0",
+        "Day 1: Cash edited to $1000000.00",
+        "Day 1: Bought 20 TSLA @ 340.0",
+        "Day 1: Bought 6 BTC @ 150000.0",
+        "Day 2: Prices updated"
+    ],
+    "day": 2,
+    "prices": {
+        "AAPL": 242.48,
+        "TSLA": 347.91,
+        "BTC": 153694.58,
+        "ETH": 5326.82
+    }
+}
