@@ -1,8 +1,6 @@
-# 📈 Portfolio Manager
+# Portfolio Manager
 
 A command-line stock & crypto portfolio simulator built in Python.
-
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 ## Overview
 
